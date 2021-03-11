@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:ChainDot/new-project.git",
   "author": "ChainDot <crypto.dot@protonmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
